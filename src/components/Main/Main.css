@@ -1,0 +1,6 @@
+.main__container {
+  max-width: 800px; /* Prevents content from stretching too wide */
+  margin: 0 auto; /* Horizontally centers the block */
+  padding: 2rem 1rem; /* Adds breathing room */
+  text-align: center; /* Centers headings and short text */
+}
